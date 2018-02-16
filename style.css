@@ -164,14 +164,16 @@ button {
     display: flex;
     /* position: relative; */
     box-sizing: border-box;
+    justify-content: space-around;
+    margin: 2.5%;
 
 
 }
 
 .portfolio-items{
+    
 
-    flex:1;
-    padding: 2.5%;
+    
 
 }
 
