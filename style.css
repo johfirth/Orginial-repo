@@ -162,7 +162,7 @@ button {
 
 .portfolio{
     display: flex;
-    position: relative;
+    /* position: relative; */
     box-sizing: border-box;
 
 
@@ -172,10 +172,6 @@ button {
 
     flex:1;
     padding: 2.5%;
-    
-
-
-
 
 }
 
