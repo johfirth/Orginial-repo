@@ -114,8 +114,6 @@ body{
     padding: 2.5% 2.5% 0% 2.5%;
     flex-direction: column;
 
-
-
 }
 
 input {
@@ -148,15 +146,38 @@ button {
     font-size: 20px;
     padding: .5em 1.5em .55em 1.5em;
     margin: 2em 0em 1em 0em;
-
-
 }
 
 /* button:click {
     box-shadow 10px grey;
 } */
 
+.portfolio-container{
+    display: flex;
+    flex-direction: column;
 
+}
+
+
+
+.portfolio{
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+
+
+}
+
+.portfolio-items{
+
+    flex:1;
+    padding: 2.5%;
+    
+
+
+
+
+}
 
 .sidebar {
     box-sizing: border-box;
